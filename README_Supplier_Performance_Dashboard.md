@@ -24,7 +24,7 @@ In the healthcare supply chain, consistent and high-quality supplier performance
 - 📁 **Modular Codebase** for reuse across datasets
 
 ---
-
+<!--
 ## 🧰 Tech Stack
 
 - **Python** – pandas, numpy, matplotlib, seaborn, scikit-learn
@@ -119,7 +119,7 @@ A sample dataset is provided in `/data/raw/` containing anonymized supplier perf
 📫 [YourEmail@example.com]  
 🔗 [LinkedIn Profile]  
 💻 [GitHub Profile]
-
+-->
 ---
 
 ## 📄 License
