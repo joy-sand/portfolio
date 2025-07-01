@@ -4,7 +4,7 @@
 Data Analytics, M.S.
 
 ### Work Experience
-Supply Chain Sourcing Manager @ Temple University Health System
+Position #1 @ ABC Company
 - big impact project 1!
 - big impact project 2!
 
