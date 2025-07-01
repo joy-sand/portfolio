@@ -119,9 +119,10 @@ A sample dataset is provided in `/data/raw/` containing anonymized supplier perf
 📫 [YourEmail@example.com]  
 🔗 [LinkedIn Profile]  
 💻 [GitHub Profile]
--->
+
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+-->
